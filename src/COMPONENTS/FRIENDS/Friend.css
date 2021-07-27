@@ -1,0 +1,10 @@
+.friends-Zone{
+    background-color: red;
+    border: 2px solid green;
+    border-radius: 10px;
+    width: 50%;
+    margin: 30px 30px 30px 25%;
+    padding: 20px;
+    text-align: center;
+    color: whitesmoke;
+}
